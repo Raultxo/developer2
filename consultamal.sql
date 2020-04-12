@@ -1,1 +1,1 @@
-select * from empleado where numero_empleado = 5000000;
+select * from empleado where num_emp = 5000000;
